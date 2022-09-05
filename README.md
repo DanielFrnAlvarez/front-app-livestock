@@ -1,3 +1,4 @@
-# vue3-vuex-vite-typescript-starter
+front-app-livestock
+Aplicación para administración de finca porcina
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue3-vuex-vite-typescript-starter)
+Con Vue 3 en base a Typescript
